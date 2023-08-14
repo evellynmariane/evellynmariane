@@ -1,7 +1,9 @@
 ### bem vindo ao meu perfil 👋
 
 meu nome é evellyn mariane
+
 estou estudadando no alura
+
 uso esse espaço para compartilhar meus projetos
 
 para entrar em contato comigo:
